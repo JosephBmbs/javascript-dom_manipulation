@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JavaScript DOM Manipulation</h1>
-  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="JavaScript DOM Manipulation" width="300" height="200">
+  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="JavaScript DOM Manipulation" >
 </div>
 
 ## Introduction
